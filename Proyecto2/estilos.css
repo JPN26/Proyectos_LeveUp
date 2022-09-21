@@ -1,0 +1,89 @@
+.boton_personalizado1{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #62ff82;
+    border-radius: 6px;
+    border: 2px solid #129406;
+  }
+  .boton_personalizado1:hover{
+    color: #67e943;
+    background-color: #ffffff;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to right, #b3ffab 0%, #12fff7 100%);
+}
+
+h1{
+    text-align: center;
+    margin: 150px 0 20px 0;
+    color: black;
+}
+legend{
+    font-size: 2em;
+    padding: 0.7px;
+    border: black;
+}
+
+fieldset{
+    width:350px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: transparent;
+}
+#numero{
+    font-size: 6em;
+    color: blue;
+}
+.boton_suma{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #27F00C;
+    border-radius: 5px;
+    border: 2px solid #1AA308;
+  }
+  .boton_suma:hover{
+    color: black;
+    background-color: transparent;
+  }
+
+  .boton_reset{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #e948f2;
+    border-radius: 5px;
+    border: 2px solid #89058e;
+  }
+  .boton_reset:hover{
+    color: black;
+    background-color: transparent;
+  }
+  .boton_resta{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #F00A01;
+    border-radius: 5px;
+    border: 2px solid #A30500;
+  }
+  .boton_resta:hover{
+    color: black;
+    background-color: transparent;
+  }

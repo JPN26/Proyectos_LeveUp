@@ -1,0 +1,64 @@
+.boton_personalizado2{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #f34e6a;
+    border-radius: 6px;
+    border: 2px solid #ce0537;
+  }
+  .boton_personalizado2:hover{
+    color: #ed4b4b;
+    background-color: #ffffff;
+  }
+  .boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #696263;
+    border-radius: 6px;
+    border: 2px solid #000000;
+  }
+  .boton_personalizado:hover{
+    color: #3f4643;
+    background-color: #ffffff;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    margin: 180px 0 20px 0;
+    color: black;
+}
+legend{
+    font-size: 2em;
+    padding: 0.7px;
+    border: black;
+}
+
+fieldset{
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: transparent;
+}
+#nombre{
+    font-size: 1em;
+}
+#bc{
+     font-size: 2em;
+}
+
+
